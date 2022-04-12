@@ -2,7 +2,7 @@ LICENSE
 README.md
 setup.py
 ComplexExtension/__init__.py
-ComplexExtension/main.py
+ComplexExtension/complex_extension.py
 ComplexExtension.egg-info/PKG-INFO
 ComplexExtension.egg-info/SOURCES.txt
 ComplexExtension.egg-info/dependency_links.txt
